@@ -19,8 +19,9 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-Hi {}, my name is {}! If you have any questions on how to use me, read /help - and then head to @Androidbotsupport.
+Καλά ρε {}, γιατί με σκας, τον {} βρήκες;! Πάτα /help και μη μου τα ζαλίζεις άλλο. Αν δεν είσαι Μεθανιώτης και δεν το κατέχεις μίλα στον παπάρα τον @SomniusX κι αν βγάλεις άκρη χέσε με.
 
+Δες τώρα λίγα αγγλικά γιατί εγώ δεν τα ξέρω από τον δημιουργό :
 I'm a group manager bot maintained by [this person](tg://user?id={}). I'm built in python3, using the \
 python-telegram-bot library, and am fully opensource - you can find what makes me tick \
 [here](github.com/bronderb/igor)!
@@ -33,7 +34,8 @@ If you're enjoying using me and would like to help out, please hit /donate
 """
 
 HELP_STRINGS = """
-Hey there! My name is *{}*.
+Έλα ρε τι θες! Τον *{}* βρήκες να πρήξεις;
+Πάρε και το αγγλικό σου τώρα για τη γεύση, γιατί ο παπάρας ο @SomniusX δεν τα έχει μεταφράσει όλα ακόμα:
 I'm a modular group management bot with a few fun extras! Have a look at the following for an idea of some of \
 the things I can help you with.
 
