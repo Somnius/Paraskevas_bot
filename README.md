@@ -1,3 +1,8 @@
+# About this Fork
+This fork is based on [Igor](https://github.com/bronderb/igor)
+It's renamed Paraskevas and it will be the same but with Greek translation and phrasal mannerisms.
+Fork by Lefteris Iliadis ([Somnius](https://github.com/Somnius] on Github)
+
 # tgbot
 A modular telegram Python bot running on python3 with an sqlalchemy database.
 
